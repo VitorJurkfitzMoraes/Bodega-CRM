@@ -1,0 +1,15 @@
+D:\ProjetosDev\Proj2302\obj\Debug\net6.0\Proj2302.csproj.AssemblyReference.cache
+D:\ProjetosDev\Proj2302\obj\Debug\net6.0\Proj2302.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetosDev\Proj2302\obj\Debug\net6.0\Proj2302.AssemblyInfoInputs.cache
+D:\ProjetosDev\Proj2302\obj\Debug\net6.0\Proj2302.AssemblyInfo.cs
+D:\ProjetosDev\Proj2302\obj\Debug\net6.0\Proj2302.csproj.CoreCompileInputs.cache
+D:\ProjetosDev\Proj2302\bin\Debug\net6.0\Proj2302.exe
+D:\ProjetosDev\Proj2302\bin\Debug\net6.0\Proj2302.deps.json
+D:\ProjetosDev\Proj2302\bin\Debug\net6.0\Proj2302.runtimeconfig.json
+D:\ProjetosDev\Proj2302\bin\Debug\net6.0\Proj2302.dll
+D:\ProjetosDev\Proj2302\bin\Debug\net6.0\Proj2302.pdb
+D:\ProjetosDev\Proj2302\obj\Debug\net6.0\Proj2302.dll
+D:\ProjetosDev\Proj2302\obj\Debug\net6.0\refint\Proj2302.dll
+D:\ProjetosDev\Proj2302\obj\Debug\net6.0\Proj2302.pdb
+D:\ProjetosDev\Proj2302\obj\Debug\net6.0\Proj2302.genruntimeconfig.cache
+D:\ProjetosDev\Proj2302\obj\Debug\net6.0\ref\Proj2302.dll
